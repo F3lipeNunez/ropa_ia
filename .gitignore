@@ -1,2 +1,3 @@
 .streamlit/
 .test/
+**/__pycache__/
